@@ -15,3 +15,6 @@ but I will try to make it flexible in a way that could support languages added b
 
 Please keep in mind that neither English nor Russian are my native languages and,
 that there is a possibility of mistakes related to grammar, definitions or anything alike.
+
+## Update
+Currently unable to work on this due to being busy with other things :(
